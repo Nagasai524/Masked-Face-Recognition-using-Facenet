@@ -35,6 +35,7 @@ The inteface of the webapp will be as follows
 Now upload a image into the Webapp.<br/> 
 If the image uploaded contains face of a trained person then the name of the person will be displayed if not the person will be recognized as Unknown. <br/>
 The result of the model on the image of a trained person is as follows
-![pro2](https://user-images.githubusercontent.com/40739974/123042907-25e37f00-d415-11eb-8df2-cb9fe040d56a.PNG)
+![pro2](https://user-images.githubusercontent.com/40739974/123124313-33285a00-d465-11eb-8570-e657e1c6015c.PNG)
+
 
 
